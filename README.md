@@ -1,2 +1,10 @@
-# magnus-v1
-Magnus is an automated system to detect drowsiness of, say a cab driver or any person for that matter. Magnus identifies sleep / drowsiness and alerts the user (in this case, say the cab driver) and prevents the person from falling asleep.
+# Magnus: Drowsiness Detection System
+
+## Description
+Magnus is an advanced automated system designed to detect drowsiness in cab drivers and others in high-attention roles. Utilizing cutting-edge computer vision and deep learning, Magnus identifies signs of fatigue and provides alerts to prevent sleep-related incidents. This proactive approach enhances safety and promotes well-being on the road.
+
+## Features
+<b>Real-Time Monitoring:</b> Tracks eye movements and facial expressions to detect drowsiness.
+<b>Instant Alerts:</b> Provides immediate notifications when fatigue is detected.
+<b>User-Friendly Interface:</b> Simple dashboard for monitoring and configuration.
+</b>Customizable:</b> Adaptable for various applications beyond driving.
