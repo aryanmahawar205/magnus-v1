@@ -7,4 +7,4 @@ Magnus is an advanced automated system designed to detect drowsiness in cab driv
 <b>Real-Time Monitoring:</b> Tracks eye movements and facial expressions to detect drowsiness. <br> <br>
 <b>Instant Alerts:</b> Provides immediate notifications when fatigue is detected. <br> <br>
 <b>User-Friendly Interface:</b> Simple dashboard for monitoring and configuration.<br> <br>
-<b>Customizable:</b> Adaptable for various applications beyond driving.
+<b>Customizable:</b> Adaptable for various applications beyond driving
